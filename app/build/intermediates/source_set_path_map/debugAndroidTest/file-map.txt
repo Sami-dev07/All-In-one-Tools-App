@@ -1,0 +1,6 @@
+com.alltools.toolbox.utility.calculator.test.app-jetified-annotation-experimental-1.4.0-0 C:\Users\123\.gradle\caches\transforms-3\0d2404afd09475b8f3307c635db76412\transformed\jetified-annotation-experimental-1.4.0\res
+com.alltools.toolbox.utility.calculator.test.app-jetified-core-1.5.0-1 C:\Users\123\.gradle\caches\transforms-3\21ad9d9033f24544f1b128ba419c041a\transformed\jetified-core-1.5.0\res
+com.alltools.toolbox.utility.calculator.test.app-androidTest-2 C:\Users\123\Desktop\New folder\Sami Data\New Code\AllInOneTools\app\build\generated\res\resValues\androidTest\debug
+com.alltools.toolbox.utility.calculator.test.app-mergeDebugAndroidTestResources-3 C:\Users\123\Desktop\New folder\Sami Data\New Code\AllInOneTools\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.alltools.toolbox.utility.calculator.test.app-mergeDebugAndroidTestResources-4 C:\Users\123\Desktop\New folder\Sami Data\New Code\AllInOneTools\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.alltools.toolbox.utility.calculator.test.app-merged_res-5 C:\Users\123\Desktop\New folder\Sami Data\New Code\AllInOneTools\app\build\intermediates\merged_res\debugAndroidTest

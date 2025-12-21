@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alltools.toolbox.utility.calculator"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="34" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
+
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <queries>
+
+        <!-- Needs to be explicitly declared on Android R+ -->
+        <package android:name="com.google.android.apps.maps" />
+    </queries>
+
+    <permission
+        android:name="com.alltools.toolbox.utility.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.alltools.toolbox.utility.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:name="com.alltools.toolbox.utility.calculator.application.App"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.StorageConverter.StorageConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.VolumeConverter.VolumeConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.MassConverter.MassConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.TimeConverter.TimeConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.LengthConverter.LengthConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.AreaConverter.AreaConverterActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.UnitsActivityMain"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.SavedRecords.SavedRecordingsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.RandomNumbersAndPassword.RandomHomeActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.VoiceRecorder"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.VoiceRecorderMain"
+            android:exported="false" />
+
+        <receiver android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.Helper.PauseActionBroadcast" />
+
+        <service android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.RecordingService" />
+        <service
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.MainService"
+            android:enabled="true"
+            android:exported="true"
+            android:foregroundServiceType="camera|microphone" />
+
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.HiddenCameraActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ClothSize.ClothActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.MetalDetector.MetalDetectorActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.BubbleLever.MainActivityBubble"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageCompressor.ImageCompressorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageCompressor.ImageResizerActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.FuelCost.FuelCostActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.DiscountCalculator.DiscountCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Location.LocationActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBb_gH66e8PutA4kM08Hr6_r8XghEVp6SI" />
+
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Magnifier.ImageDisplayActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Magnifier.MagnifierActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.CountdownActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.SetTimeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.SpeedMeter.SpeedMeterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageToPDF.ImageToPdfActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.CountDownStartActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Protector.ProtectorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ScientificCalculator.ScientificCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.PercentageCalculator.PercentageCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.AgeCalculator.AgeCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.TapCounter.TapCounterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.QRCode.ScanQRCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.QRCode.QRCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.SimpleCalculator.SimpleCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.DeviceDetails.DeviceDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TextToSpeech.TextToSpeechActivity"
+            android:exported="false"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.StopWatch.StopWatchActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Ruler.StraightRulerActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.PeriodicTable.PeriodicTableActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.PianoActivity.PianoActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.CalenderCodes.activities.Calender_Main"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ShoeSize.ShoeSizeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.FlashLight.FlashlightActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Compass.CompassActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.MathAndFinanceActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.TimeAndDateActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.CommonToolsActivty"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.EssentialToolsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.GetStartedActivity.GetStarted"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.SpeedMeter.GpsServices"
+            android:exported="false"
+            android:foregroundServiceType="location"
+            android:permission="android.permission.FOREGROUND_SERVICE" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.alltools.toolbox.utility.calculator.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/imagepicker_file_paths" />
+        </provider>
+
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.editTask"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.AddTaskActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.TodoListMainActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.nguyenhoanglam.imagepicker.ui.imagepicker.ImagePickerActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/imagepicker_ImagePickerTheme" />
+        <activity
+            android:name="com.nguyenhoanglam.imagepicker.ui.camera.CameraActivty"
+            android:screenOrientation="portrait"
+            android:theme="@style/imagepicker_CameraTheme" /> <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.alltools.toolbox.utility.calculator.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

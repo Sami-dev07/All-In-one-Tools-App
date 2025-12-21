@@ -1,0 +1,1098 @@
+[
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_magnifier.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_magnifier.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_baseline_calendar_today_24.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_table_header_cell_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/table_header_cell_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_main_todo.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_main_todo.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_pdf_saved_files.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/pdf_saved_files.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-hdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-hdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_speech_text_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/speech_text_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_record_progress_bar.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/record_progress_bar.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_shoe_size_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/shoe_size_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_length_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_length_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/raw_beepfast.mp3.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/raw/beepfast.mp3"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_unit_converter_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/unit_converter_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_stop_watch_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/stop_watch_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_full_compass.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/full_compass.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_straigh_ruler_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/straigh_ruler_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_sp_logo.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/sp_logo.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_task_card_layout.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/task_card_layout.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_clothing_women_size.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/clothing_women_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_img_pdf_btn.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/img_pdf_btn.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_timer_logo.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_timer_logo.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_time_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_time_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_play.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_memory.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/memory.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_age_calculator_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/age_calculator_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_hidden_camera_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/hidden_camera_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_stopwatch_ground.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/stopwatch_ground.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_flashlight.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_flashlight.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compass_main.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compass_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_featured_cursor_drawable.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/featured_cursor_drawable.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_text_count_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/text_count_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_count_down_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/count_down_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-hdpi_ic_today_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-hdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxhdpi_ic_date_range_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxhdpi/ic_date_range_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_image_display.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_display.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compress_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compress_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_periodic_table.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/periodic_table.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_change_time_btn.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/change_time_btn.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_recorder_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/recorder_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compass_needle.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compass_needle.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_dialog_audio_rename_file.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/dialog_audio_rename_file.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_math_and_finance.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_math_and_finance.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_seekbar_thumb.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxxhdpi_ic_date_range_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxxhdpi/ic_date_range_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_grocery_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/grocery_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_stop_icon.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/stop_icon.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_clothing_size.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_clothing_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_fragment_unit_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/fragment_unit_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxxhdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxxhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_post_transition_metals.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/post_transition_metals.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_background.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/background.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_flashlight_off.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/flashlight_off.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_age_calculator.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_age_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xhdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_compress_bottom_sheet.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/compress_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_protractor.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/protractor.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_cal_back.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/cal_back.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_submit_bg_new.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/submit_bg_new.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_location.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_location.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_media_stop.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_media_stop.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_row_shoe_size.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/row_shoe_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_settings.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_pause_btn.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/pause_btn.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_arithmatic_button.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/arithmatic_button.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_main_bubble.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_main_bubble.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_calculator_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/calculator_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_view_custom_calendar.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/view_custom_calendar.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/anim_press_animation.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/anim/press_animation.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_oval_purple_solid.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/oval_purple_solid.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_saved_recordings.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_saved_recordings.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/menu_remove_menu_popup.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/menu/remove_menu_popup.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_piano.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_piano.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_flashligh_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/flashligh_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_calibrationview.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/calibrationview.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_set_time.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_set_time.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_fragment_media_playback.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/fragment_media_playback.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxxhdpi_ic_today_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxxhdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_percentage_calculator.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_percentage_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_android_iconcc.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/android_iconcc.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_new_but.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/new_but.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_splash_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/splash_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_menu.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/menu.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_info_dialog.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/info_dialog.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/font_k2d_medium.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/font/k2d_medium.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_level_1d.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/level_1d.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_back_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/back_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_action_stop.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_action_stop.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_view_calendar_month.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/view_calendar_month.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_time_date_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/time_date_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_round_stop_watch.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/round_stop_watch.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compass_icc.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compass_icc.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_customprogressbar1.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/customprogressbar1.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compress_image_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compress_image_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_internet_speed_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/internet_speed_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_non_metals.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/non_metals.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_pause.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_internet_speed.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_internet_speed.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_transition_metals.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/transition_metals.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_alkali_metals.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/alkali_metals.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_tap_counter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_tap_counter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_left_arrow.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/left_arrow.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_piano_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/piano_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_right_arrow.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/right_arrow.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxhdpi_ic_today_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxhdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_soundon_icon.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/soundon_icon.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_common_reset_48.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_common_reset_48.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_add_task.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_row_common_size.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/row_common_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-mdpi_ic_date_range_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-mdpi/ic_date_range_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_essential_tools.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_essential_tools.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_rounded_corner.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_rounded_corner.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_todo_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/todo_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_tap_counter.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/tap_counter.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxhdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxhdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-mdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-mdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_circle_button.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/circle_button.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_time_and_date.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_time_and_date.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_warning.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/warning.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_straight_ruler.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_straight_ruler.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_vibration_button.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/vibration_button.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_sci_blue.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/sci_blue.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_easy_notes_icc.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/easy_notes_icc.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_metal_detector.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_metal_detector.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_count_down_btn.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/count_down_btn.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_countdown.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_countdown.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_form_maths_random.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/form_maths_random.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_marker_1d.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/marker_1d.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_speed_meter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_speed_meter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_cloth.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_cloth.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_flash_off.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/flash_off.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_edit_task.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_edit_task.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_device_details.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_device_details.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_storage_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_storage_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_plus_15.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_plus_15.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_periodic_table.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_periodic_table.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_loading.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/loading.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_clothing_men_fragment.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/clothing_men_fragment.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_calibrationimg.gif.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/calibrationimg.gif"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_common_tools_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/common_tools_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_stop.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_flash_on.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/flash_on.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compass_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compass_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_image_pdf_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/image_pdf_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_protector.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_protector.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_compress.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/compress.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/font_k2d_bold.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/font/k2d_bold.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_speedmeter_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/speedmeter_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_form_random_password.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/form_random_password.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_count_down_start.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_count_down_start.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_fuel_cost.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_fuel_cost.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_view_calendar_day.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/view_calendar_day.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_action_copy_48.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_action_copy_48.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_discount_calculator.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_discount_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_reset.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_reset.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_mic_white_36dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_mic_white_36dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_math_finance_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/math_finance_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_qr_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/qr_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_mass_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_mass_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_units_main.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_units_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xhdpi_ic_date_range_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xhdpi/ic_date_range_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/xml_backup_rules.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_voice_recorder.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_voice_recorder.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_piano_bar.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/piano_bar.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_stop_watch.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_stop_watch.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_play_icon.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/play_icon.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_fragment_clothing_men.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/fragment_clothing_men.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_actinoides.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/actinoides.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_arrow_drop_down.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_action_pause.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_action_pause.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_sci_grey.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/sci_grey.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_reset_counter.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/reset_counter.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_calender_main.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_calender_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_flashlight_icc.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/flashlight_icc.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_alkaline_earth_metals.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/alkaline_earth_metals.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_level_2d.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/level_2d.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_image_resizer.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_resizer.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_sci_back.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/sci_back.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_image_compressor.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_compressor.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_vibrateoff.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/vibrateoff.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_action_share.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_action_share.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_text_to_speech.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_text_to_speech.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-hdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-hdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_button.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/button.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_ruler.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_ruler.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_taper.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/taper.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_qr_icc.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/qr_icc.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_lanthanides.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/lanthanides.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_audio_record_row.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/audio_record_row.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_oval_black_background_solid_selector.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/oval_black_background_solid_selector.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_notification.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_bubble.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/bubble.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_folder.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/folder.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_magnifier_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/magnifier_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-hdpi_ic_date_range_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-hdpi/ic_date_range_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_unit_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_unit_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_simple_calculator.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_simple_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_submit_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/submit_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_volume_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_volume_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_circular_bg_drawable_pink.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/circular_bg_drawable_pink.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/raw_bip.ogg.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/raw/bip.ogg"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_marker_2d.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/marker_2d.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_pdf_placeholder.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/pdf_placeholder.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/raw_sample_beat.mp3.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/raw/sample_beat.mp3"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_device_info_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/device_info_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-mdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-mdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_simple_calculator_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/simple_calculator_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_fuel_cost_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/fuel_cost_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_bubble_leveler.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_bubble_leveler.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_table_content_cell_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/table_content_cell_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_scientific_calculator_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/scientific_calculator_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_calculator_48.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_calculator_48.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_pianobar.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/pianobar.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_halogens.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/halogens.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_all.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/all.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_cloth_size.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/cloth_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_oval_black_solid.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/oval_black_solid.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_discount_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/discount_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_tap_counter_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/tap_counter_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_qrcode.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_qrcode.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_protector.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/protector.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_thermometer_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/thermometer_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_scan_qrcode.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_scan_qrcode.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_border_bg.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/border_bg.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_shoe_size.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_shoe_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_action_play.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_action_play.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_action_refresh.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_action_refresh.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_get_started.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_display.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/display.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_noble_gases.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/noble_gases.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xhdpi_ic_today_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xhdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_scientific_calculator.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_scientific_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_form_random_home.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/form_random_home.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_compass.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_compass.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_hidden_camera.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_hidden_camera.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_customprogressbar.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/customprogressbar.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_record_progress_bar_background.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/record_progress_bar_background.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_common_tools_activty.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_common_tools_activty.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_image_to_pdf.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_to_pdf.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_info.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/info.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_flashlight.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/flashlight.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_easy_notes_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/easy_notes_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_calender_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/calender_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-xxxhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-xxxhdpi/ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_loading_dialog.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_mute_button.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/mute_button.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_voice_recorder_main.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_voice_recorder_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_bubble_leveler_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/bubble_leveler_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_metal_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/metal_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_location_tracker_ic.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/location_tracker_ic.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_image_item.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/image_item.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable-mdpi_ic_today_white_24dp.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable-mdpi/ic_today_white_24dp.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/layout_activity_area_converter.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_area_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_metalloids.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/metalloids.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_seekbar_progress.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/seekbar_progress.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_ic_password_generate_48.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/ic_password_generate_48.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_music.png.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/music.png"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-merged_res-56:/drawable_shape.xml.flat",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/drawable/shape.xml"
+    }
+]

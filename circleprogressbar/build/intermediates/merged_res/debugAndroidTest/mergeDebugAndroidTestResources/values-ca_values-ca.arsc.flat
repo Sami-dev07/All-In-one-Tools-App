@@ -1,0 +1,73 @@
+f (buttonDivide == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonDot;
+      AppCompatButton buttonDot = ViewBindings.findChildViewById(rootView, id);
+      if (buttonDot == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonEqual;
+      AppCompatButton buttonEqual = ViewBindings.findChildViewById(rootView, id);
+      if (buttonEqual == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonFactorial;
+      AppCompatButton buttonFactorial = ViewBindings.findChildViewById(rootView, id);
+      if (buttonFactorial == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonInverse;
+      AppCompatButton buttonInverse = ViewBindings.findChildViewById(rootView, id);
+      if (buttonInverse == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonLeftBracket;
+      AppCompatButton buttonLeftBracket = ViewBindings.findChildViewById(rootView, id);
+      if (buttonLeftBracket == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonLn;
+      AppCompatButton buttonLn = ViewBindings.findChildViewById(rootView, id);
+      if (buttonLn == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonLog;
+      AppCompatButton buttonLog = ViewBindings.findChildViewById(rootView, id);
+      if (buttonLog == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonMinus;
+      AppCompatButton buttonMinus = ViewBindings.findChildViewById(rootView, id);
+      if (buttonMinus == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonMultiply;
+      AppCompatButton buttonMultiply = ViewBindings.findChildViewById(rootView, id);
+      if (buttonMultiply == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonPi;
+      AppCompatButton buttonPi = ViewBindings.findChildViewById(rootView, id);
+      if (buttonPi == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonPlus;
+      AppCompatButton buttonPlus = ViewBindings.findChildViewById(rootView, id);
+      if (buttonPlus == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonRightBracket;
+      AppCompatButton buttonRightBracket = ViewBindings.findChildViewById(rootView, id);
+      if (buttonRightBra

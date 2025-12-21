@@ -1,0 +1,1025 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:235:9-243:20
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:25:9-33:20
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:239:13-47
+	android:authorities
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:237:13-64
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:238:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:236:13-62
+manifest
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:2:1-256:12
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:2:1-256:12
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Android\.gradle\caches\transforms-3\884869ecb15720531541c038eed2bb07\transformed\jetified-viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.kerolsafififawzy:Image-To-PdfConverter:1.0.3] C:\Users\Android\.gradle\caches\transforms-3\881a0fa172ac352a83885d17df73a158\transformed\jetified-Image-To-PdfConverter-1.0.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Android\.gradle\caches\transforms-3\2cc1380b45a348e4dae093bfd7e81be0\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android\.gradle\caches\transforms-3\6baf7369df1986775d09c9025cc5af17\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [:rulerview] C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\rulerview\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.ParadiseHell:PianoView:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\c44818fe49c6d25c6898b4026742cfa4\transformed\jetified-PianoView-1.1.1\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\d3b640f08a9cb73ede75e64a73484faf\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\32b948ffa88f976fba0f2613bcd053ec\transformed\jetified-PhotoView-2.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jsibbold:zoomage:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\ec89b4eeba1aa9ec1ef5f42de0a04710\transformed\jetified-zoomage-1.3.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\Android\.gradle\caches\transforms-3\2d99eca58bf6123d108eb766c44ff854\transformed\jetified-lottie-2.7.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Android\.gradle\caches\transforms-3\1219cfc4ae0405858a279e17abd54d30\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Android\.gradle\caches\transforms-3\dc35ec9bf3dd3d776f39164f02c2224d\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\Android\.gradle\caches\transforms-3\6bfe9bd3cb1ea8581203fe2306169ba9\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Android\.gradle\caches\transforms-3\c860620cd3e90b86236cf7c4dc04553d\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\3cfd81bb75da0a74b353743e239f2b6f\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\207464b06fada1d2e7a5f0e64d4b41b4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Android\.gradle\caches\transforms-3\e2a1d7f3f2704231eb50832797988bd4\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Android\.gradle\caches\transforms-3\b1b7253472781dad9bae6869e0659766\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\5229b52e500c02918e2ab76e66c0ac5f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Android\.gradle\caches\transforms-3\3f0181bdd4b8981065c91bdf891a7af3\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Android\.gradle\caches\transforms-3\cd5d003a55e8cf1f9e345f090f8a4133\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\a9da727654a4d3341937acaa01366011\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\5f3be0f7a05ac84158b0d6e022b32671\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\68df93461399daf7181a528e466797a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Android\.gradle\caches\transforms-3\095c7a6141eb147c4ad136f6f6292009\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Android\.gradle\caches\transforms-3\600755bd23a0d92fddd2fb5a47489553\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\666effe83217efe11d33974584c2878a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\33da4b1a45bd39bf897cb4dec29ae491\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\20c48722a3d68df3823a9273cbee17bc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\b8e83db44d84cce3caf0be422a1b1285\transformed\jetified-floatingactionbutton-1.3.0\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\4b0a8c70419c7d527e5183a5e11a41ef\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\97d2719dc17565a35f5a0be6f1f04cca\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\3517b96745aca9317b649f5407b026bd\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\1dc1a4b785f1c0854e4c53bba40bab0c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\2d0687eb65e8de020fad9073bb5d5863\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\6d9639426aa62ca3afe7bb7a2f684a6b\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\c76d5a1fadca4a7f59f76197d24a663b\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\66b05075b0352587bf786e94a9154cc2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\e2c341ea374c8beb2ce22241b4c1f0d8\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\42df8c3cfdbe4881515a91d3724c00fb\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\1e12b69b62fb357a4d3c11c55c26c23e\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b17f5ee8a48713c727c805d0fb412103\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\32505b46e8c1d1671ef2c79ef680db7c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\0080c5ffe5d059ecefecfeef42fd6c31\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\5bf7782abd377284c3031b708d396854\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\ff4ba67debb6efafb6b3c8fde828ec70\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\d81c40c959cd450373a9358eefe99724\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\e08f580cb281b0561da7e3e203bcba82\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\fb7432e5b47d9967604f0b645f9e705e\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\2332c6023b096caa5e8682ae5703b9a8\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\0b8eac49aa297db1b62a11a6a3543d2d\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\4b3db95b9b26067b172c9582cdb609ec\transformed\sqlite-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] C:\Users\Android\.gradle\caches\transforms-3\8b9f566ab91e376d71ca5ce93d9395f6\transformed\jetified-egloo-0.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Android\.gradle\caches\transforms-3\0d2404afd09475b8f3307c635db76412\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Android\.gradle\caches\transforms-3\b75761b9baa5fb09a433606f30f802f8\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.yuriy-budiyev:code-scanner:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\78173c61deb4cc5808e29e041ef39aff\transformed\jetified-code-scanner-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\736a2e2deac5c4036b7a1e9e4cb3d9f8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\3d76a549b0061f95b329f996f0a12225\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\c5ded40478b4ebaad8a0267d0c5a13ee\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\8da1603eabefc487e8bed22317daff7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\cd247c90c3d38581c5633b1dc0f4cdf8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\72d19a362d3a8b79b6060ec8f80aaee9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\dd4a032d790d345f53fcfd13767fc9d5\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\05094936e135d31564164ce5c9ff82df\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\4653680b69ea938ca14d8fe2ea980dd5\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Android\.gradle\caches\transforms-3\db6125822bba2845a2d95f9262a832a6\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\88b8dffb66099e8b3863a7d7c312e8e4\transformed\jetified-sdp-android-1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.20] C:\Users\Android\.gradle\caches\transforms-3\869fdc065acabb9e40dd5b72e7d2362a\transformed\jetified-android-gif-drawable-1.2.20\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\ebaa66d678fd97f9dfd1173c737a51fc\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:8:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_LOCATION
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:9:5-86
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:9:22-83
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:10:5-65
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:11:5-65
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:11:5-65
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:12:5-65
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:11:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:13:5-15:36
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:19:5-21:36
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:14:9-47
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:18:5-81
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:11:5-81
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:22:22-75
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.FOREGROUND_SERVICE_CAMERA
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:26:5-84
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:26:22-81
+uses-permission#android.permission.FOREGROUND_SERVICE_MICROPHONE
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:28:22-85
+application
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:30:5-254:19
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:30:5-254:19
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:32:5-20
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:32:5-20
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:15:5-34:19
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:15:5-34:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Android\.gradle\caches\transforms-3\2cc1380b45a348e4dae093bfd7e81be0\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Android\.gradle\caches\transforms-3\2cc1380b45a348e4dae093bfd7e81be0\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android\.gradle\caches\transforms-3\6baf7369df1986775d09c9025cc5af17\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android\.gradle\caches\transforms-3\6baf7369df1986775d09c9025cc5af17\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.ParadiseHell:PianoView:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\c44818fe49c6d25c6898b4026742cfa4\transformed\jetified-PianoView-1.1.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.ParadiseHell:PianoView:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\c44818fe49c6d25c6898b4026742cfa4\transformed\jetified-PianoView-1.1.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\Android\.gradle\caches\transforms-3\2d99eca58bf6123d108eb766c44ff854\transformed\jetified-lottie-2.7.0\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\Android\.gradle\caches\transforms-3\2d99eca58bf6123d108eb766c44ff854\transformed\jetified-lottie-2.7.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\3cfd81bb75da0a74b353743e239f2b6f\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\3cfd81bb75da0a74b353743e239f2b6f\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Android\.gradle\caches\transforms-3\e2a1d7f3f2704231eb50832797988bd4\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Android\.gradle\caches\transforms-3\e2a1d7f3f2704231eb50832797988bd4\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Android\.gradle\caches\transforms-3\b1b7253472781dad9bae6869e0659766\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Android\.gradle\caches\transforms-3\b1b7253472781dad9bae6869e0659766\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\b8e83db44d84cce3caf0be422a1b1285\transformed\jetified-floatingactionbutton-1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\b8e83db44d84cce3caf0be422a1b1285\transformed\jetified-floatingactionbutton-1.3.0\AndroidManifest.xml:12:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] C:\Users\Android\.gradle\caches\transforms-3\8b9f566ab91e376d71ca5ce93d9395f6\transformed\jetified-egloo-0.6.1\AndroidManifest.xml:9:5-20
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] C:\Users\Android\.gradle\caches\transforms-3\8b9f566ab91e376d71ca5ce93d9395f6\transformed\jetified-egloo-0.6.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\c5ded40478b4ebaad8a0267d0c5a13ee\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\c5ded40478b4ebaad8a0267d0c5a13ee\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\8da1603eabefc487e8bed22317daff7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\8da1603eabefc487e8bed22317daff7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:36:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:34:9-54
+	android:roundIcon
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:37:9-54
+	tools:targetApi
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:40:9-29
+	android:icon
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:35:9-43
+	android:allowBackup
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:39:9-65
+	android:dataExtractionRules
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:33:9-65
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:31:9-40
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.StorageConverter.StorageConverterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:42:13-109
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.VolumeConverter.VolumeConverterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:45:13-107
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.MassConverter.MassConverterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:47:9-49:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:48:13-103
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.TimeConverter.TimeConverterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:50:9-52:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:51:13-103
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.LengthConverter.LengthConverterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:53:9-55:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:54:13-107
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.AreaConverter.AreaConverterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:56:9-59:72
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:58:13-37
+	android:theme
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:59:13-69
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:57:13-103
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.UnitsActivityMain
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:60:9-62:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:61:13-85
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.SavedRecords.SavedRecordingsActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:63:9-65:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:64:13-94
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.RandomNumbersAndPassword.RandomHomeActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:66:9-69:72
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:68:13-37
+	android:theme
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:69:13-69
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:67:13-97
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.VoiceRecorder
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:70:9-73:72
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:72:13-37
+	android:theme
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:71:13-71
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.VoiceRecorderMain
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:74:9-76:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:75:13-75
+receiver#com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.Helper.PauseActionBroadcast
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:78:9-98
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:78:19-95
+service#com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.RecordingService
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:80:9-82
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:80:18-79
+service#com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.MainService
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:81:9-85:65
+	android:enabled
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:84:13-36
+	android:foregroundServiceType
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:85:13-62
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:82:13-73
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.HiddenCameraActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:87:9-89:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:88:13-82
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ClothSize.ClothActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:90:9-92:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:91:13-77
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.MetalDetector.MetalDetectorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:93:9-97:72
+	android:screenOrientation
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:96:13-49
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:95:13-37
+	android:theme
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:97:13-69
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:94:13-79
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.BubbleLever.MainActivityBubble
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:98:9-101:52
+	android:screenOrientation
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:101:13-49
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:100:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:99:13-84
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageCompressor.ImageCompressorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:102:9-104:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:104:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:103:13-88
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageCompressor.ImageResizerActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:105:9-107:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:106:13-85
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.FuelCost.FuelCostActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:108:9-110:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:110:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:109:13-79
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.DiscountCalculator.DiscountCalculatorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:111:9-113:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:113:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:112:13-99
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.Location.LocationActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:114:9-116:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:115:13-69
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:118:9-120:71
+	android:value
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:120:13-68
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:119:13-58
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.Magnifier.ImageDisplayActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:122:9-124:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:124:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:123:13-74
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.Magnifier.MagnifierActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:125:9-127:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:127:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:126:13-71
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.CountdownActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:128:9-130:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:130:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:129:13-81
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.SetTimeActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:131:9-133:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:133:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:132:13-79
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.SpeedMeter.SpeedMeterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:134:9-136:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:136:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:135:13-73
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageToPDF.ImageToPdfActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:137:9-139:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:139:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:138:13-78
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.CountDownStartActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:140:9-142:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:142:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:141:13-86
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Protector.ProtectorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:143:9-145:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:145:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:144:13-81
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ScientificCalculator.ScientificCalculatorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:146:9-148:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:148:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:147:13-103
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.PercentageCalculator.PercentageCalculatorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:149:9-151:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:151:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:150:13-103
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.AgeCalculator.AgeCalculatorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:152:9-154:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:154:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:153:13-89
+activity#com.alltools.toolbox.utility.calculator.TimeAndDateActivity.TapCounter.TapCounterActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:155:9-157:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:156:13-78
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.QRCode.ScanQRCodeActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:158:9-160:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:160:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:159:13-69
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.QRCode.QRCodeActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:161:9-163:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:163:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:162:13-65
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.SimpleCalculator.SimpleCalculatorActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:164:9-166:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:166:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:165:13-95
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.DeviceDetails.DeviceDetailsActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:167:9-169:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:169:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:168:13-84
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.TextToSpeech.TextToSpeechActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:170:9-173:75
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:172:13-37
+	android:theme
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:173:13-72
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:171:13-82
+activity#com.alltools.toolbox.utility.calculator.TimeAndDateActivity.StopWatch.StopWatchActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:174:9-176:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:176:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:175:13-76
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Ruler.StraightRulerActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:177:9-180:53
+	android:screenOrientation
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:180:13-50
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:179:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:178:13-81
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.PeriodicTable.PeriodicTableActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:181:9-183:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:183:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:182:13-89
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.PianoActivity.PianoActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:184:9-187:53
+	android:screenOrientation
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:187:13-50
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:186:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:185:13-76
+activity#com.alltools.toolbox.utility.calculator.TimeAndDateActivity.CalenderCodes.activities.Calender_Main
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:188:9-190:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:190:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:189:13-87
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ShoeSize.ShoeSizeActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:191:9-193:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:193:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:192:13-79
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.FlashLight.FlashlightActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:194:9-196:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:196:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:195:13-73
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.Compass.CompassActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:197:9-199:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:199:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:198:13-67
+activity#com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.MathAndFinanceActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:200:9-202:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:202:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:201:13-76
+activity#com.alltools.toolbox.utility.calculator.TimeAndDateActivity.TimeAndDateActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:203:9-205:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:205:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:204:13-68
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.CommonToolsActivty
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:206:9-208:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:208:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:207:13-67
+activity#com.alltools.toolbox.utility.calculator.EssentialTools.EssentialToolsActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:209:9-211:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:211:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:210:13-66
+activity#com.alltools.toolbox.utility.calculator.GetStartedActivity.GetStarted
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:212:9-220:20
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:214:13-36
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:213:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:215:13-219:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:216:17-69
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:216:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:218:17-77
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:218:27-74
+activity#com.alltools.toolbox.utility.calculator.MainActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:221:9-223:39
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:223:13-36
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:222:13-41
+meta-data#preloaded_fonts
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:225:9-227:57
+	android:resource
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:227:13-54
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:226:13-43
+service#com.alltools.toolbox.utility.calculator.EssentialTools.SpeedMeter.GpsServices
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:229:9-233:74
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:231:13-37
+	android:permission
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:233:13-71
+	android:foregroundServiceType
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:232:13-53
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:230:13-66
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.editTask
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:245:9-247:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:247:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:246:13-66
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.AddTaskActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:248:9-250:40
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:250:13-37
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:249:13-73
+activity#com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.TodoListMainActivity
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:251:9-253:39
+	android:exported
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:253:13-36
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:252:13-78
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:240:13-242:66
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:30:13-32:66
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:30:13-32:66
+	android:resource
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:242:17-63
+	android:name
+		ADDED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:241:17-67
+uses-sdk
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:6:5-9:60
+MERGED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:6:5-9:60
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Android\.gradle\caches\transforms-3\884869ecb15720531541c038eed2bb07\transformed\jetified-viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Android\.gradle\caches\transforms-3\884869ecb15720531541c038eed2bb07\transformed\jetified-viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [com.github.kerolsafififawzy:Image-To-PdfConverter:1.0.3] C:\Users\Android\.gradle\caches\transforms-3\881a0fa172ac352a83885d17df73a158\transformed\jetified-Image-To-PdfConverter-1.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kerolsafififawzy:Image-To-PdfConverter:1.0.3] C:\Users\Android\.gradle\caches\transforms-3\881a0fa172ac352a83885d17df73a158\transformed\jetified-Image-To-PdfConverter-1.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Android\.gradle\caches\transforms-3\2cc1380b45a348e4dae093bfd7e81be0\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Android\.gradle\caches\transforms-3\2cc1380b45a348e4dae093bfd7e81be0\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android\.gradle\caches\transforms-3\6baf7369df1986775d09c9025cc5af17\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android\.gradle\caches\transforms-3\6baf7369df1986775d09c9025cc5af17\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [:rulerview] C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\rulerview\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:rulerview] C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\rulerview\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.github.ParadiseHell:PianoView:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\c44818fe49c6d25c6898b4026742cfa4\transformed\jetified-PianoView-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ParadiseHell:PianoView:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\c44818fe49c6d25c6898b4026742cfa4\transformed\jetified-PianoView-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\d3b640f08a9cb73ede75e64a73484faf\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\d3b640f08a9cb73ede75e64a73484faf\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\32b948ffa88f976fba0f2613bcd053ec\transformed\jetified-PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\32b948ffa88f976fba0f2613bcd053ec\transformed\jetified-PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jsibbold:zoomage:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\ec89b4eeba1aa9ec1ef5f42de0a04710\transformed\jetified-zoomage-1.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jsibbold:zoomage:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\ec89b4eeba1aa9ec1ef5f42de0a04710\transformed\jetified-zoomage-1.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\Android\.gradle\caches\transforms-3\2d99eca58bf6123d108eb766c44ff854\transformed\jetified-lottie-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\Android\.gradle\caches\transforms-3\2d99eca58bf6123d108eb766c44ff854\transformed\jetified-lottie-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Android\.gradle\caches\transforms-3\1219cfc4ae0405858a279e17abd54d30\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Android\.gradle\caches\transforms-3\1219cfc4ae0405858a279e17abd54d30\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Android\.gradle\caches\transforms-3\dc35ec9bf3dd3d776f39164f02c2224d\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Android\.gradle\caches\transforms-3\dc35ec9bf3dd3d776f39164f02c2224d\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\Android\.gradle\caches\transforms-3\6bfe9bd3cb1ea8581203fe2306169ba9\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\Android\.gradle\caches\transforms-3\6bfe9bd3cb1ea8581203fe2306169ba9\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Android\.gradle\caches\transforms-3\c860620cd3e90b86236cf7c4dc04553d\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Android\.gradle\caches\transforms-3\c860620cd3e90b86236cf7c4dc04553d\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\3cfd81bb75da0a74b353743e239f2b6f\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\3cfd81bb75da0a74b353743e239f2b6f\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\207464b06fada1d2e7a5f0e64d4b41b4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\207464b06fada1d2e7a5f0e64d4b41b4\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Android\.gradle\caches\transforms-3\e2a1d7f3f2704231eb50832797988bd4\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Android\.gradle\caches\transforms-3\e2a1d7f3f2704231eb50832797988bd4\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Android\.gradle\caches\transforms-3\b1b7253472781dad9bae6869e0659766\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Android\.gradle\caches\transforms-3\b1b7253472781dad9bae6869e0659766\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\5229b52e500c02918e2ab76e66c0ac5f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\5229b52e500c02918e2ab76e66c0ac5f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Android\.gradle\caches\transforms-3\3f0181bdd4b8981065c91bdf891a7af3\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Android\.gradle\caches\transforms-3\3f0181bdd4b8981065c91bdf891a7af3\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Android\.gradle\caches\transforms-3\cd5d003a55e8cf1f9e345f090f8a4133\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Android\.gradle\caches\transforms-3\cd5d003a55e8cf1f9e345f090f8a4133\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\a9da727654a4d3341937acaa01366011\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\a9da727654a4d3341937acaa01366011\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\5f3be0f7a05ac84158b0d6e022b32671\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\5f3be0f7a05ac84158b0d6e022b32671\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\68df93461399daf7181a528e466797a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\68df93461399daf7181a528e466797a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Android\.gradle\caches\transforms-3\095c7a6141eb147c4ad136f6f6292009\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Android\.gradle\caches\transforms-3\095c7a6141eb147c4ad136f6f6292009\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Android\.gradle\caches\transforms-3\600755bd23a0d92fddd2fb5a47489553\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Android\.gradle\caches\transforms-3\600755bd23a0d92fddd2fb5a47489553\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\666effe83217efe11d33974584c2878a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\666effe83217efe11d33974584c2878a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\33da4b1a45bd39bf897cb4dec29ae491\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\33da4b1a45bd39bf897cb4dec29ae491\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\20c48722a3d68df3823a9273cbee17bc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\20c48722a3d68df3823a9273cbee17bc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\b8e83db44d84cce3caf0be422a1b1285\transformed\jetified-floatingactionbutton-1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\b8e83db44d84cce3caf0be422a1b1285\transformed\jetified-floatingactionbutton-1.3.0\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\4b0a8c70419c7d527e5183a5e11a41ef\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\4b0a8c70419c7d527e5183a5e11a41ef\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\97d2719dc17565a35f5a0be6f1f04cca\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\97d2719dc17565a35f5a0be6f1f04cca\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\3517b96745aca9317b649f5407b026bd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Android\.gradle\caches\transforms-3\3517b96745aca9317b649f5407b026bd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\1dc1a4b785f1c0854e4c53bba40bab0c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\1dc1a4b785f1c0854e4c53bba40bab0c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\2d0687eb65e8de020fad9073bb5d5863\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\2d0687eb65e8de020fad9073bb5d5863\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\6d9639426aa62ca3afe7bb7a2f684a6b\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\6d9639426aa62ca3afe7bb7a2f684a6b\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\c76d5a1fadca4a7f59f76197d24a663b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\c76d5a1fadca4a7f59f76197d24a663b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\66b05075b0352587bf786e94a9154cc2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\66b05075b0352587bf786e94a9154cc2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\e2c341ea374c8beb2ce22241b4c1f0d8\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\e2c341ea374c8beb2ce22241b4c1f0d8\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\42df8c3cfdbe4881515a91d3724c00fb\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\42df8c3cfdbe4881515a91d3724c00fb\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\1e12b69b62fb357a4d3c11c55c26c23e\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Android\.gradle\caches\transforms-3\1e12b69b62fb357a4d3c11c55c26c23e\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b17f5ee8a48713c727c805d0fb412103\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b17f5ee8a48713c727c805d0fb412103\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\32505b46e8c1d1671ef2c79ef680db7c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\32505b46e8c1d1671ef2c79ef680db7c\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\0080c5ffe5d059ecefecfeef42fd6c31\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\0080c5ffe5d059ecefecfeef42fd6c31\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\5bf7782abd377284c3031b708d396854\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\5bf7782abd377284c3031b708d396854\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\ff4ba67debb6efafb6b3c8fde828ec70\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\ff4ba67debb6efafb6b3c8fde828ec70\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\d81c40c959cd450373a9358eefe99724\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\d81c40c959cd450373a9358eefe99724\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\e08f580cb281b0561da7e3e203bcba82\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\e08f580cb281b0561da7e3e203bcba82\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\fb7432e5b47d9967604f0b645f9e705e\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\fb7432e5b47d9967604f0b645f9e705e\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\2332c6023b096caa5e8682ae5703b9a8\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\2332c6023b096caa5e8682ae5703b9a8\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\0b8eac49aa297db1b62a11a6a3543d2d\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\0b8eac49aa297db1b62a11a6a3543d2d\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\4b3db95b9b26067b172c9582cdb609ec\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\4b3db95b9b26067b172c9582cdb609ec\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] C:\Users\Android\.gradle\caches\transforms-3\8b9f566ab91e376d71ca5ce93d9395f6\transformed\jetified-egloo-0.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.otaliastudios.opengl:egloo:0.6.1] C:\Users\Android\.gradle\caches\transforms-3\8b9f566ab91e376d71ca5ce93d9395f6\transformed\jetified-egloo-0.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Android\.gradle\caches\transforms-3\0d2404afd09475b8f3307c635db76412\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Android\.gradle\caches\transforms-3\0d2404afd09475b8f3307c635db76412\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Android\.gradle\caches\transforms-3\b75761b9baa5fb09a433606f30f802f8\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Android\.gradle\caches\transforms-3\b75761b9baa5fb09a433606f30f802f8\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yuriy-budiyev:code-scanner:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\78173c61deb4cc5808e29e041ef39aff\transformed\jetified-code-scanner-2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yuriy-budiyev:code-scanner:2.3.0] C:\Users\Android\.gradle\caches\transforms-3\78173c61deb4cc5808e29e041ef39aff\transformed\jetified-code-scanner-2.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\736a2e2deac5c4036b7a1e9e4cb3d9f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\736a2e2deac5c4036b7a1e9e4cb3d9f8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\3d76a549b0061f95b329f996f0a12225\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\3d76a549b0061f95b329f996f0a12225\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\c5ded40478b4ebaad8a0267d0c5a13ee\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Android\.gradle\caches\transforms-3\c5ded40478b4ebaad8a0267d0c5a13ee\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\8da1603eabefc487e8bed22317daff7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\8da1603eabefc487e8bed22317daff7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\cd247c90c3d38581c5633b1dc0f4cdf8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\cd247c90c3d38581c5633b1dc0f4cdf8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\72d19a362d3a8b79b6060ec8f80aaee9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\72d19a362d3a8b79b6060ec8f80aaee9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\dd4a032d790d345f53fcfd13767fc9d5\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\dd4a032d790d345f53fcfd13767fc9d5\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\05094936e135d31564164ce5c9ff82df\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\05094936e135d31564164ce5c9ff82df\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\4653680b69ea938ca14d8fe2ea980dd5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\4653680b69ea938ca14d8fe2ea980dd5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Android\.gradle\caches\transforms-3\db6125822bba2845a2d95f9262a832a6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Android\.gradle\caches\transforms-3\db6125822bba2845a2d95f9262a832a6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\88b8dffb66099e8b3863a7d7c312e8e4\transformed\jetified-sdp-android-1.1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\88b8dffb66099e8b3863a7d7c312e8e4\transformed\jetified-sdp-android-1.1.1\AndroidManifest.xml:7:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.20] C:\Users\Android\.gradle\caches\transforms-3\869fdc065acabb9e40dd5b72e7d2362a\transformed\jetified-android-gif-drawable-1.2.20\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.20] C:\Users\Android\.gradle\caches\transforms-3\869fdc065acabb9e40dd5b72e7d2362a\transformed\jetified-android-gif-drawable-1.2.20\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\ebaa66d678fd97f9dfd1173c737a51fc\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\ebaa66d678fd97f9dfd1173c737a51fc\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:9:9-57
+	android:targetSdkVersion
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:26:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:29:9-51
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:13:22-65
+activity#com.nguyenhoanglam.imagepicker.ui.imagepicker.ImagePickerActivity
+ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:16:9-19:67
+	android:configChanges
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:17:13-93
+activity#com.nguyenhoanglam.imagepicker.ui.camera.CameraActivty
+ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:20:9-23:62
+	android:screenOrientation
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from [com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:21:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android\.gradle\caches\transforms-3\0e4f921929a7b2b77aa38ea0937aa736\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.alltools.toolbox.utility.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.alltools.toolbox.utility.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

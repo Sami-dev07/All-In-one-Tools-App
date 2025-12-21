@@ -1,0 +1,2 @@
+com.alltools.toolbox.utility.calculator.test:style/WhiteBackgroundTheme = 0x7f010001
+com.alltools.toolbox.utility.calculator.test:style/WhiteBackgroundDialogTheme = 0x7f010000

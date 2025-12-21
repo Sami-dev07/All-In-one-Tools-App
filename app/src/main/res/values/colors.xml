@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tools_edit_text_primary_color">#212121</color>
+    <color name="tools_button_color">#ffffff</color>
+    <color name="grey">#464646</color>
+    <color name="app_blue">#217398</color>
+    <color name="app_black">#2A2A2A</color>
+    <color name="app_black_click">#3f3f3f</color>
+    <color name="accent">#82b1ff</color>
+    <color name="colorPrimary">#008cff</color>
+    <color name="colorPrimaryDark">#047fe4</color>
+    <color name="background_lite">#e9eef3</color>
+    <color name="common_accent_color">#1a237e</color>
+
+    <color name="dayNightColor">#7F8DA2</color>
+    <color name="common_primary_color">#ff5722</color>
+
+
+
+    <color name="grey_lighter">#E0E0E0</color>
+    <color name="grey_light">#9E9E9E</color>
+    <color name="grey_dark">#424242</color>
+    <color name="red_dark">#D32F2F</color>
+    <color name="blue_light">#03A9F4</color>
+    <color name="blue_dark">#01579B</color>
+    <color name="tools_color_random">#ff0266</color>
+
+
+
+
+
+
+
+
+
+
+
+
+    <color name="yellow2">#FFFF00</color>
+    <color name="lime">#00FF00</color>
+    <color name="aqua">#00FFFF</color>
+
+
+    <color name="common_button_color">#ffffff</color>
+    <color name="tools_color_text_to_speech">#e30425</color>
+
+    <color name="background_dark">#dbdfe2</color>
+    <color name="textColor">#242833</color>
+    <color name="hint">#768291</color>
+    <color name="divider">#c5c5ce</color>
+    <color name="colorAccent">#008cff</color>
+    <color name="gray">#bebebe</color>
+    <color name="background">#a43b3b3b</color>
+    <color name="trans">#00ffffff</color>
+    <color name="tools_color_cloths_size">#455a64</color>
+    <color name="blue">#4d8cfd</color>
+    <color name="red">#fd3643</color>
+    <color name="orange">#ffa023</color>
+    <color name="yellow">#ffff4b</color>
+    <color name="green">#0bb137</color>
+    <color name="cyan">#49cffb</color>
+    <color name="purple">#8401a3</color>
+    <color name="pink">#ff3387</color>
+
+    <color name="non_metal2">#02b36c</color>
+    <color name="alkali_metals2">#d24848</color>
+    <color name="alkaline_earth_metal2">#e1b07f</color>
+    <color name="transition_metals2">#ab7b7b</color>
+    <color name="post_transition_metals2">#a6a670</color>
+    <color name="halogens2">#1893a3</color>
+    <color name="metalloids2">#7a8c94</color>
+    <color name="nobel2">#68428e</color>
+    <color name="lanthanides2">#c18806</color>
+    <color name="actinoides2">#a9a91c</color>
+
+    <color name="non_metal3">#02e289</color>
+    <color name="alkali_metals3">#ff6666</color>
+    <color name="alkaline_earth_metal3">#ffcc99</color>
+    <color name="transition_metals3">#cc9999</color>
+    <color name="post_transition_metals3">#cccc99</color>
+    <color name="halogens3">#26c6da</color>
+    <color name="metalloids3">#90a4ae</color>
+    <color name="nobel3">#9966cc</color>
+    <color name="lanthanides3">#ffb60d</color>
+    <color name="actinoides3">#cccc33</color>
+
+
+    <color name="offwhite">#e9e7e6</color>
+
+    <color name="nfdas">#D3D3D3</color>
+
+    <color name="silver">#FF888888</color>
+    <color name="violet">#EE53537B</color>
+    <color name="translucent">#00FFFFFF</color>
+    <color name="semitranslucent">#44FFFFFF</color>
+
+    <color name="level_liquid_reflect">@color/green</color>
+    <color name="level_border_reflect">@color/black</color>
+    <color name="level_liquid_dark">@color/green</color>
+    <color name="level_border">@color/black</color>
+    <color name="marker_stroke">@color/black</color>
+    <color name="marker_reflect">@color/black</color>
+    <color name="marker_dark">@color/black</color>
+    <color name="bubble_center">@color/violet</color>
+
+    <color name="lcd_front">@color/green</color>
+    <color name="lcd_back">@color/semitranslucent</color>
+    <color name="lock_front">@color/green</color>
+    <color name="lock_back">@color/semitranslucent</color>
+    <color name="display_border">@color/black</color>
+    <color name="display_dark">@color/black</color>
+    <color name="display_reflect">@color/black</color>
+    <color name="home_card_color">#f5f5f5</color>
+
+
+</resources>

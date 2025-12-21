@@ -1,0 +1,68 @@
+s.button7 = button7;
+    this.button8 = button8;
+    this.button9 = button9;
+    this.buttonBackspace = buttonBackspace;
+    this.buttonClear = buttonClear;
+    this.buttonCos = buttonCos;
+    this.buttonDivide = buttonDivide;
+    this.buttonDot = buttonDot;
+    this.buttonEqual = buttonEqual;
+    this.buttonFactorial = buttonFactorial;
+    this.buttonInverse = buttonInverse;
+    this.buttonLeftBracket = buttonLeftBracket;
+    this.buttonLn = buttonLn;
+    this.buttonLog = buttonLog;
+    this.buttonMinus = buttonMinus;
+    this.buttonMultiply = buttonMultiply;
+    this.buttonPi = buttonPi;
+    this.buttonPlus = buttonPlus;
+    this.buttonRightBracket = buttonRightBracket;
+    this.buttonSin = buttonSin;
+    this.buttonSqrt = buttonSqrt;
+    this.buttonSquare = buttonSquare;
+    this.buttonTan = buttonTan;
+    this.textViewMain = textViewMain;
+    this.textViewSecondary = textViewSecondary;
+  }
+
+  @Override
+  @NonNull
+  public LinearLayout getRoot() {
+    return rootView;
+  }
+
+  @NonNull
+  public static ActivityScientificCalculatorBinding inflate(@NonNull LayoutInflater inflater) {
+    return inflate(inflater, null, false);
+  }
+
+  @NonNull
+  public static ActivityScientificCalculatorBinding inflate(@NonNull LayoutInflater inflater,
+      @Nullable ViewGroup parent, boolean attachToParent) {
+    View root = inflater.inflate(R.layout.activity_scientific_calculator, parent, false);
+    if (attachToParent) {
+      parent.addView(root);
+    }
+    return bind(root);
+  }
+
+  @NonNull
+  public static ActivityScientificCalculatorBinding bind(@NonNull View rootView) {
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.button0;
+      AppCompatButton button0 = ViewBindings.findChildViewById(rootView, id);
+      if (button0 == null) {
+        break missingId;
+      }
+
+      id = R.id.button1;
+      AppCompatButton button1 = ViewBindings.findChildViewById(rootView, id);
+      if (button1 == null) {
+        break missingId;
+      }
+
+      id = R.id.button2;
+      AppCompatButton button2 = ViewBindings.findChildViewById(

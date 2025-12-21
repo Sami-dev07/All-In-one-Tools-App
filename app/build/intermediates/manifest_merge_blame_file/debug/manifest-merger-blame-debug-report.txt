@@ -1,0 +1,699 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.alltools.toolbox.utility.calculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:7:5-77
+13-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+14-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:8:5-77
+14-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:8:22-74
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+15-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:9:5-86
+15-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:9:22-83
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:10:5-65
+16-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:10:22-62
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:11:5-67
+17-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:11:22-64
+18
+19    <uses-feature
+19-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:13:5-15:36
+20        android:name="android.hardware.camera"
+20-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:14:9-47
+21        android:required="false" />
+21-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:15:9-33
+22
+23    <uses-permission android:name="android.permission.VIBRATE" />
+23-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:17:5-66
+23-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:17:22-63
+24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+24-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:18:5-81
+24-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:18:22-78
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:19:5-80
+25-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:19:22-77
+26    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+26-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:20:5-71
+26-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:20:22-68
+27    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+27-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:21:5-71
+27-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:21:22-68
+28    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+28-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:22:5-78
+28-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:22:22-75
+29    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+29-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:23:5-79
+29-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:23:22-76
+30    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+30-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:24:5-75
+30-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:24:22-72
+31    <uses-permission android:name="android.permission.INTERNET" />
+31-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:11:5-67
+31-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:11:22-64
+32    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA" />
+32-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:26:5-84
+32-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:26:22-81
+33    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+33-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:7:5-77
+33-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:7:22-74
+34    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
+34-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:28:5-88
+34-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:28:22-85
+35
+36    <uses-feature
+36-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:22:5-24:36
+37        android:name="android.hardware.camera.autofocus"
+37-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:23:9-57
+38        android:required="false" />
+38-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:24:9-33
+39    <uses-feature
+39-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:25:5-27:36
+40        android:name="android.hardware.camera.front"
+40-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:26:9-53
+41        android:required="false" />
+41-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:27:9-33
+42    <uses-feature
+42-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:28:5-30:36
+43        android:name="android.hardware.microphone"
+43-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:29:9-51
+44        android:required="false" />
+44-->[com.otaliastudios:cameraview:2.7.2] C:\Users\Android\.gradle\caches\transforms-3\257effb4e79450406c4e458cc4ccf9a1\transformed\jetified-cameraview-2.7.2\AndroidManifest.xml:30:9-33
+45
+46    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Include required permissions for Google Maps API to run. -->
+46-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:13:5-68
+46-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:13:22-65
+47    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+47-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+47-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+48
+49    <uses-feature
+49-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+50        android:glEsVersion="0x00020000"
+50-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+51        android:required="true" />
+51-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+52
+53    <queries>
+53-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+54
+55        <!-- Needs to be explicitly declared on Android R+ -->
+56        <package android:name="com.google.android.apps.maps" />
+56-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+56-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+57    </queries>
+58
+59    <permission
+59-->[androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+60        android:name="com.alltools.toolbox.utility.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+60-->[androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+61        android:protectionLevel="signature" />
+61-->[androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+62
+63    <uses-permission android:name="com.alltools.toolbox.utility.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+63-->[androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+63-->[androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+64
+65    <application
+65-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:30:5-254:19
+66        android:name="com.alltools.toolbox.utility.calculator.application.App"
+66-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:31:9-40
+67        android:allowBackup="true"
+67-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:32:9-35
+68        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+68-->[androidx.core:core:1.13.1] C:\Users\Android\.gradle\caches\transforms-3\f56dbe53ae57347aeffbae5006061ae8\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+69        android:dataExtractionRules="@xml/data_extraction_rules"
+69-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:33:9-65
+70        android:debuggable="true"
+71        android:extractNativeLibs="false"
+72        android:fullBackupContent="@xml/backup_rules"
+72-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:34:9-54
+73        android:icon="@mipmap/ic_launcher"
+73-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:35:9-43
+74        android:label="@string/app_name"
+74-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:36:9-41
+75        android:roundIcon="@mipmap/ic_launcher_round"
+75-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:37:9-54
+76        android:supportsRtl="true"
+76-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:38:9-35
+77        android:testOnly="true"
+78        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+78-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:39:9-65
+79        <activity
+79-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:41:9-43:40
+80            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.StorageConverter.StorageConverterActivity"
+80-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:42:13-109
+81            android:exported="false" />
+81-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:43:13-37
+82        <activity
+82-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:44:9-46:40
+83            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.VolumeConverter.VolumeConverterActivity"
+83-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:45:13-107
+84            android:exported="false" />
+84-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:46:13-37
+85        <activity
+85-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:47:9-49:40
+86            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.MassConverter.MassConverterActivity"
+86-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:48:13-103
+87            android:exported="false" />
+87-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:49:13-37
+88        <activity
+88-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:50:9-52:40
+89            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.TimeConverter.TimeConverterActivity"
+89-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:51:13-103
+90            android:exported="false" />
+90-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:52:13-37
+91        <activity
+91-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:53:9-55:40
+92            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.LengthConverter.LengthConverterActivity"
+92-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:54:13-107
+93            android:exported="false" />
+93-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:55:13-37
+94        <activity
+94-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:56:9-59:72
+95            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.AreaConverter.AreaConverterActivity"
+95-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:57:13-103
+96            android:exported="false"
+96-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:58:13-37
+97            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+97-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:59:13-69
+98        <activity
+98-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:60:9-62:40
+99            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.UnitConverter.UnitsActivityMain"
+99-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:61:13-85
+100            android:exported="false" />
+100-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:62:13-37
+101        <activity
+101-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:63:9-65:40
+102            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.SavedRecords.SavedRecordingsActivity"
+102-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:64:13-94
+103            android:exported="false" />
+103-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:65:13-37
+104        <activity
+104-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:66:9-69:72
+105            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.RandomNumbersAndPassword.RandomHomeActivity"
+105-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:67:13-97
+106            android:exported="false"
+106-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:68:13-37
+107            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+107-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:69:13-69
+108        <activity
+108-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:70:9-73:72
+109            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.VoiceRecorder"
+109-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:71:13-71
+110            android:exported="false"
+110-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:72:13-37
+111            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+111-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:73:13-69
+112        <activity
+112-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:74:9-76:40
+113            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.VoiceRecorderMain"
+113-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:75:13-75
+114            android:exported="false" />
+114-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:76:13-37
+115
+116        <receiver android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.Helper.PauseActionBroadcast" />
+116-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:78:9-98
+116-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:78:19-95
+117
+118        <service android:name="com.alltools.toolbox.utility.calculator.EssentialTools.VoiceRecorder.RecordingService" />
+118-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:80:9-82
+118-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:80:18-79
+119        <service
+119-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:81:9-85:65
+120            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.MainService"
+120-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:82:13-73
+121            android:enabled="true"
+121-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:83:13-35
+122            android:exported="true"
+122-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:84:13-36
+123            android:foregroundServiceType="camera|microphone" />
+123-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:85:13-62
+124
+125        <activity
+125-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:87:9-89:40
+126            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.HiddenCamera.HiddenCameraActivity"
+126-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:88:13-82
+127            android:exported="false" />
+127-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:89:13-37
+128        <activity
+128-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:90:9-92:40
+129            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ClothSize.ClothActivity"
+129-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:91:13-77
+130            android:exported="false" />
+130-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:92:13-37
+131        <activity
+131-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:93:9-97:72
+132            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.MetalDetector.MetalDetectorActivity"
+132-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:94:13-79
+133            android:exported="false"
+133-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:95:13-37
+134            android:screenOrientation="portrait"
+134-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:96:13-49
+135            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+135-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:97:13-69
+136        <activity
+136-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:98:9-101:52
+137            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.BubbleLever.MainActivityBubble"
+137-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:99:13-84
+138            android:exported="false"
+138-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:100:13-37
+139            android:screenOrientation="portrait" />
+139-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:101:13-49
+140        <activity
+140-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:102:9-104:40
+141            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageCompressor.ImageCompressorActivity"
+141-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:103:13-88
+142            android:exported="false" />
+142-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:104:13-37
+143        <activity
+143-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:105:9-107:40
+144            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageCompressor.ImageResizerActivity"
+144-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:106:13-85
+145            android:exported="false" />
+145-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:107:13-37
+146        <activity
+146-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:108:9-110:40
+147            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.FuelCost.FuelCostActivity"
+147-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:109:13-79
+148            android:exported="false" />
+148-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:110:13-37
+149        <activity
+149-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:111:9-113:40
+150            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.DiscountCalculator.DiscountCalculatorActivity"
+150-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:112:13-99
+151            android:exported="false" />
+151-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:113:13-37
+152        <activity
+152-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:114:9-116:40
+153            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Location.LocationActivity"
+153-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:115:13-69
+154            android:exported="false" />
+154-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:116:13-37
+155
+156        <meta-data
+156-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:118:9-120:71
+157            android:name="com.google.android.geo.API_KEY"
+157-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:119:13-58
+158            android:value="AIzaSyBb_gH66e8PutA4kM08Hr6_r8XghEVp6SI" />
+158-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:120:13-68
+159
+160        <activity
+160-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:122:9-124:40
+161            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Magnifier.ImageDisplayActivity"
+161-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:123:13-74
+162            android:exported="false" />
+162-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:124:13-37
+163        <activity
+163-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:125:9-127:40
+164            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Magnifier.MagnifierActivity"
+164-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:126:13-71
+165            android:exported="false" />
+165-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:127:13-37
+166        <activity
+166-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:128:9-130:40
+167            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.CountdownActivity"
+167-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:129:13-81
+168            android:exported="false" />
+168-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:130:13-37
+169        <activity
+169-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:131:9-133:40
+170            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.SetTimeActivity"
+170-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:132:13-79
+171            android:exported="false" />
+171-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:133:13-37
+172        <activity
+172-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:134:9-136:40
+173            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.SpeedMeter.SpeedMeterActivity"
+173-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:135:13-73
+174            android:exported="false" />
+174-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:136:13-37
+175        <activity
+175-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:137:9-139:40
+176            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.ImageToPDF.ImageToPdfActivity"
+176-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:138:13-78
+177            android:exported="false" />
+177-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:139:13-37
+178        <activity
+178-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:140:9-142:40
+179            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Countdown.CountDownStartActivity"
+179-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:141:13-86
+180            android:exported="false" />
+180-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:142:13-37
+181        <activity
+181-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:143:9-145:40
+182            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Protector.ProtectorActivity"
+182-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:144:13-81
+183            android:exported="false" />
+183-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:145:13-37
+184        <activity
+184-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:146:9-148:40
+185            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ScientificCalculator.ScientificCalculatorActivity"
+185-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:147:13-103
+186            android:exported="false" />
+186-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:148:13-37
+187        <activity
+187-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:149:9-151:40
+188            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.PercentageCalculator.PercentageCalculatorActivity"
+188-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:150:13-103
+189            android:exported="false" />
+189-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:151:13-37
+190        <activity
+190-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:152:9-154:40
+191            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.AgeCalculator.AgeCalculatorActivity"
+191-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:153:13-89
+192            android:exported="false" />
+192-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:154:13-37
+193        <activity
+193-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:155:9-157:40
+194            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.TapCounter.TapCounterActivity"
+194-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:156:13-78
+195            android:exported="false" />
+195-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:157:13-37
+196        <activity
+196-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:158:9-160:40
+197            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.QRCode.ScanQRCodeActivity"
+197-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:159:13-69
+198            android:exported="false" />
+198-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:160:13-37
+199        <activity
+199-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:161:9-163:40
+200            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.QRCode.QRCodeActivity"
+200-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:162:13-65
+201            android:exported="false" />
+201-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:163:13-37
+202        <activity
+202-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:164:9-166:40
+203            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.SimpleCalculator.SimpleCalculatorActivity"
+203-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:165:13-95
+204            android:exported="false" />
+204-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:166:13-37
+205        <activity
+205-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:167:9-169:40
+206            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.DeviceDetails.DeviceDetailsActivity"
+206-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:168:13-84
+207            android:exported="false" />
+207-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:169:13-37
+208        <activity
+208-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:170:9-173:75
+209            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TextToSpeech.TextToSpeechActivity"
+209-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:171:13-82
+210            android:exported="false"
+210-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:172:13-37
+211            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+211-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:173:13-72
+212        <activity
+212-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:174:9-176:40
+213            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.StopWatch.StopWatchActivity"
+213-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:175:13-76
+214            android:exported="false" />
+214-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:176:13-37
+215        <activity
+215-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:177:9-180:53
+216            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.Ruler.StraightRulerActivity"
+216-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:178:13-81
+217            android:exported="false"
+217-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:179:13-37
+218            android:screenOrientation="landscape" />
+218-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:180:13-50
+219        <activity
+219-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:181:9-183:40
+220            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.PeriodicTable.PeriodicTableActivity"
+220-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:182:13-89
+221            android:exported="false" />
+221-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:183:13-37
+222        <activity
+222-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:184:9-187:53
+223            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.PianoActivity.PianoActivity"
+223-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:185:13-76
+224            android:exported="false"
+224-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:186:13-37
+225            android:screenOrientation="landscape" />
+225-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:187:13-50
+226        <activity
+226-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:188:9-190:40
+227            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.CalenderCodes.activities.Calender_Main"
+227-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:189:13-87
+228            android:exported="false" />
+228-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:190:13-37
+229        <activity
+229-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:191:9-193:40
+230            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.ShoeSize.ShoeSizeActivity"
+230-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:192:13-79
+231            android:exported="false" />
+231-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:193:13-37
+232        <activity
+232-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:194:9-196:40
+233            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.FlashLight.FlashlightActivity"
+233-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:195:13-73
+234            android:exported="false" />
+234-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:196:13-37
+235        <activity
+235-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:197:9-199:40
+236            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.Compass.CompassActivity"
+236-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:198:13-67
+237            android:exported="false" />
+237-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:199:13-37
+238        <activity
+238-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:200:9-202:40
+239            android:name="com.alltools.toolbox.utility.calculator.MathAndFinanceActivities.MathAndFinanceActivity"
+239-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:201:13-76
+240            android:exported="false" />
+240-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:202:13-37
+241        <activity
+241-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:203:9-205:40
+242            android:name="com.alltools.toolbox.utility.calculator.TimeAndDateActivity.TimeAndDateActivity"
+242-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:204:13-68
+243            android:exported="false" />
+243-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:205:13-37
+244        <activity
+244-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:206:9-208:40
+245            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.CommonToolsActivty"
+245-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:207:13-67
+246            android:exported="false" />
+246-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:208:13-37
+247        <activity
+247-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:209:9-211:40
+248            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.EssentialToolsActivity"
+248-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:210:13-66
+249            android:exported="false" />
+249-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:211:13-37
+250        <activity
+250-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:212:9-220:20
+251            android:name="com.alltools.toolbox.utility.calculator.GetStartedActivity.GetStarted"
+251-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:213:13-58
+252            android:exported="true" >
+252-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:214:13-36
+253            <intent-filter>
+253-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:215:13-219:29
+254                <action android:name="android.intent.action.MAIN" />
+254-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:216:17-69
+254-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:216:25-66
+255
+256                <category android:name="android.intent.category.LAUNCHER" />
+256-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:218:17-77
+256-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:218:27-74
+257            </intent-filter>
+258        </activity>
+259        <activity
+259-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:221:9-223:39
+260            android:name="com.alltools.toolbox.utility.calculator.MainActivity"
+260-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:222:13-41
+261            android:exported="true" />
+261-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:223:13-36
+262
+263        <meta-data
+263-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:225:9-227:57
+264            android:name="preloaded_fonts"
+264-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:226:13-43
+265            android:resource="@array/preloaded_fonts" />
+265-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:227:13-54
+266
+267        <service
+267-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:229:9-233:74
+268            android:name="com.alltools.toolbox.utility.calculator.EssentialTools.SpeedMeter.GpsServices"
+268-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:230:13-66
+269            android:exported="false"
+269-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:231:13-37
+270            android:foregroundServiceType="location"
+270-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:232:13-53
+271            android:permission="android.permission.FOREGROUND_SERVICE" />
+271-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:233:13-71
+272
+273        <provider
+274            android:name="androidx.core.content.FileProvider"
+274-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:236:13-62
+275            android:authorities="com.alltools.toolbox.utility.calculator.fileprovider"
+275-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:237:13-64
+276            android:exported="false"
+276-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:238:13-37
+277            android:grantUriPermissions="true" >
+277-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:239:13-47
+278            <meta-data
+278-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:240:13-242:66
+279                android:name="android.support.FILE_PROVIDER_PATHS"
+279-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:241:17-67
+280                android:resource="@xml/imagepicker_file_paths" />
+280-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:242:17-63
+281        </provider>
+282
+283        <activity
+283-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:245:9-247:40
+284            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.editTask"
+284-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:246:13-66
+285            android:exported="false" />
+285-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:247:13-37
+286        <activity
+286-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:248:9-250:40
+287            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.AddTaskActivity"
+287-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:249:13-73
+288            android:exported="false" />
+288-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:250:13-37
+289        <activity
+289-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:251:9-253:39
+290            android:name="com.alltools.toolbox.utility.calculator.CommonToolsActivity.TodoList.TodoListMainActivity"
+290-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:252:13-78
+291            android:exported="true" />
+291-->C:\Users\Android\Desktop\Sami's Apps\Sami Data\New Code\AllInOneTools\app\src\main\AndroidManifest.xml:253:13-36
+292        <activity
+292-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:16:9-19:67
+293            android:name="com.nguyenhoanglam.imagepicker.ui.imagepicker.ImagePickerActivity"
+293-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:17:13-93
+294            android:configChanges="orientation|screenSize"
+294-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:18:13-59
+295            android:theme="@style/imagepicker_ImagePickerTheme" />
+295-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:19:13-64
+296        <activity
+296-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:20:9-23:62
+297            android:name="com.nguyenhoanglam.imagepicker.ui.camera.CameraActivty"
+297-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:21:13-82
+298            android:screenOrientation="portrait"
+298-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:22:13-49
+299            android:theme="@style/imagepicker_CameraTheme" /> <!-- Needs to be explicitly declared on P+ -->
+299-->[com.github.nguyenhoanglam:ImagePicker:1.3.2] C:\Users\Android\.gradle\caches\transforms-3\c3e52172ba209858a0afdc0c9a88a3ff\transformed\jetified-ImagePicker-1.3.2\AndroidManifest.xml:23:13-59
+300        <uses-library
+300-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+301            android:name="org.apache.http.legacy"
+301-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+302            android:required="false" />
+302-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\368851af935661250670c152cddd4dc2\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+303
+304        <activity
+304-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+305            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+305-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+306            android:exported="false"
+306-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+307            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+307-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\97e1adee5a8ff694536c7f3aceb9fcb4\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+308
+309        <meta-data
+309-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+310            android:name="com.google.android.gms.version"
+310-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+311            android:value="@integer/google_play_services_version" />
+311-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Android\.gradle\caches\transforms-3\33e6823a90295f0f19e855aca676b549\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+312
+313        <provider
+313-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+314            android:name="androidx.startup.InitializationProvider"
+314-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+315            android:authorities="com.alltools.toolbox.utility.calculator.androidx-startup"
+315-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+316            android:exported="false" >
+316-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+317            <meta-data
+317-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+318                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+318-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+319                android:value="androidx.startup" />
+319-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Android\.gradle\caches\transforms-3\104dd18e5de105bee373ce232a12d150\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+320            <meta-data
+320-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+321                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+321-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+322                android:value="androidx.startup" />
+322-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Android\.gradle\caches\transforms-3\b02a7ac18abde1d4902fa44021375c0a\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+323            <meta-data
+323-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+324                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+324-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+325                android:value="androidx.startup" />
+325-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+326        </provider>
+327
+328        <uses-library
+328-->[androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+329            android:name="androidx.window.extensions"
+329-->[androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+330            android:required="false" />
+330-->[androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+331        <uses-library
+331-->[androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+332            android:name="androidx.window.sidecar"
+332-->[androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+333            android:required="false" />
+333-->[androidx.window:window:1.0.0] C:\Users\Android\.gradle\caches\transforms-3\788b5b8088da6c5c2ab275057219e848\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+334
+335        <service
+335-->[androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+336            android:name="androidx.room.MultiInstanceInvalidationService"
+336-->[androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+337            android:directBootAware="true"
+337-->[androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+338            android:exported="false" />
+338-->[androidx.room:room-runtime:2.5.0] C:\Users\Android\.gradle\caches\transforms-3\15e0f21a7c6b31ea70b533bcf2382d93\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+339
+340        <receiver
+340-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+341            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+341-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+342            android:directBootAware="false"
+342-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+343            android:enabled="true"
+343-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+344            android:exported="true"
+344-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+345            android:permission="android.permission.DUMP" >
+345-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+346            <intent-filter>
+346-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+347                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+347-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+347-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+348            </intent-filter>
+349            <intent-filter>
+349-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+350                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+350-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+350-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+351            </intent-filter>
+352            <intent-filter>
+352-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+353                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+353-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+353-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+354            </intent-filter>
+355            <intent-filter>
+355-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+356                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+356-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+356-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Android\.gradle\caches\transforms-3\7641fba704403822121334a443fef1db\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+357            </intent-filter>
+358        </receiver>
+359    </application>
+360
+361</manifest>

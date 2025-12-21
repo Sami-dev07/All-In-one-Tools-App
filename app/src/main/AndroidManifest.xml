@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
+
+    <application
+        android:name=".application.App"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        tools:targetApi="31">
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.StorageConverter.StorageConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.VolumeConverter.VolumeConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.MassConverter.MassConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.TimeConverter.TimeConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.LengthConverter.LengthConverterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.AreaConverter.AreaConverterActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".MathAndFinanceActivities.UnitConverter.UnitsActivityMain"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.VoiceRecorder.SavedRecords.SavedRecordingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.RandomNumbersAndPassword.RandomHomeActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".EssentialTools.VoiceRecorder.VoiceRecorder"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".EssentialTools.VoiceRecorder.VoiceRecorderMain"
+            android:exported="false" />
+
+        <receiver android:name=".CommonToolsActivity.HiddenCamera.Helper.PauseActionBroadcast" />
+
+        <service android:name=".EssentialTools.VoiceRecorder.RecordingService" />
+        <service
+            android:name=".CommonToolsActivity.HiddenCamera.MainService"
+            android:enabled="true"
+            android:exported="true"
+            android:foregroundServiceType="camera|microphone" />
+
+        <activity
+            android:name=".CommonToolsActivity.HiddenCamera.HiddenCameraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.ClothSize.ClothActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.MetalDetector.MetalDetectorActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".MathAndFinanceActivities.BubbleLever.MainActivityBubble"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CommonToolsActivity.ImageCompressor.ImageCompressorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.ImageCompressor.ImageResizerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.FuelCost.FuelCostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.DiscountCalculator.DiscountCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.Location.LocationActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBb_gH66e8PutA4kM08Hr6_r8XghEVp6SI" />
+
+        <activity
+            android:name=".EssentialTools.Magnifier.ImageDisplayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.Magnifier.MagnifierActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.Countdown.CountdownActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.Countdown.SetTimeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.SpeedMeter.SpeedMeterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.ImageToPDF.ImageToPdfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.Countdown.CountDownStartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.Protector.ProtectorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.ScientificCalculator.ScientificCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.PercentageCalculator.PercentageCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.AgeCalculator.AgeCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TimeAndDateActivity.TapCounter.TapCounterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.QRCode.ScanQRCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.QRCode.QRCodeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.SimpleCalculator.SimpleCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.DeviceDetails.DeviceDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.TextToSpeech.TextToSpeechActivity"
+            android:exported="false"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+        <activity
+            android:name=".TimeAndDateActivity.StopWatch.StopWatchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.Ruler.StraightRulerActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".MathAndFinanceActivities.PeriodicTable.PeriodicTableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.PianoActivity.PianoActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".TimeAndDateActivity.CalenderCodes.activities.Calender_Main"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.ShoeSize.ShoeSizeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.FlashLight.FlashlightActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.Compass.CompassActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathAndFinanceActivities.MathAndFinanceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TimeAndDateActivity.TimeAndDateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.CommonToolsActivty"
+            android:exported="false" />
+        <activity
+            android:name=".EssentialTools.EssentialToolsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GetStartedActivity.GetStarted"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name=".EssentialTools.SpeedMeter.GpsServices"
+            android:exported="false"
+            android:foregroundServiceType="location"
+            android:permission="android.permission.FOREGROUND_SERVICE" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/imagepicker_file_paths" />
+        </provider>
+
+        <activity
+            android:name=".CommonToolsActivity.TodoList.editTask"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.TodoList.AddTaskActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommonToolsActivity.TodoList.TodoListMainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etOriginalPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter original price"
+        android:inputType="numberDecimal"
+        android:importantForAccessibility="yes" />
+
+    <EditText
+        android:id="@+id/etDiscountPercentage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etOriginalPrice"
+        android:layout_marginTop="16dp"
+        android:hint="Enter discount percentage"
+        android:inputType="numberDecimal"
+        android:importantForAccessibility="yes" />
+
+    <Button
+        android:id="@+id/btnCalculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etDiscountPercentage"
+        android:layout_marginTop="16dp"
+        android:text="Calculate Discount"
+        android:importantForAccessibility="yes" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnCalculate"
+        android:layout_marginTop="16dp"
+        android:text="Discounted Price will appear here"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:importantForAccessibility="yes" />
+
+</RelativeLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:text="Womens Shoe Size"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/ll_shoe_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="5">
+
+        <TextView
+            android:id="@+id/tv_us"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:background="@drawable/table_content_cell_bg"
+            android:gravity="center"
+            android:text=""
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tv_euro"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:background="@drawable/table_content_cell_bg"
+            android:gravity="center"
+            android:text=""
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tv_uk"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:background="@drawable/table_content_cell_bg"
+            android:gravity="center"
+            android:text=""
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tv_inches"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:background="@drawable/table_content_cell_bg"
+            android:gravity="center"
+            android:text=""
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tv_cm"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:background="@drawable/table_content_cell_bg"
+            android:gravity="center"
+            android:text=""
+            android:textAlignment="center" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:orientation="horizontal"
+    android:padding="20dp">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tip_new_name"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_weight="1"
+        app:boxStrokeColor="@color/tools_edit_text_primary_color"
+        app:endIconMode="custom"
+        app:endIconTint="@color/tools_edit_text_primary_color"
+        app:helperTextTextColor="@color/tools_edit_text_primary_color"
+        app:hintAnimationEnabled="true"
+        app:hintTextColor="@color/tools_edit_text_primary_color">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/new_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cursorVisible="true"
+            android:inputType="textAutoComplete"
+            android:textCursorDrawable="@drawable/featured_cursor_drawable" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=".mp4" />
+</LinearLayout>

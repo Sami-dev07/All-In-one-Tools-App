@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/textStyleBody1Bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/set_range_text" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/tip_minimum"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="16dp"
+                android:hint="@string/minimum_text"
+                app:boxStrokeColor="@color/tools_edit_text_primary_color"
+                app:helperText="@string/minimum_text"
+                app:helperTextTextColor="@color/tools_edit_text_primary_color"
+                app:hintAnimationEnabled="true"
+                app:hintTextColor="@color/tools_edit_text_primary_color">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/et_minimum"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:cursorVisible="true"
+                    android:inputType="numberDecimal"
+                    android:maxLength="5"
+                    android:maxLines="1"
+                    android:textCursorDrawable="@drawable/featured_cursor_drawable" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/tip_maximum"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="16dp"
+                android:hint="@string/maximum_text"
+                app:boxStrokeColor="@color/tools_edit_text_primary_color"
+                app:helperText="@string/maximum_text"
+                app:helperTextTextColor="@color/tools_edit_text_primary_color"
+                app:hintAnimationEnabled="true"
+                app:hintTextColor="@color/tools_edit_text_primary_color">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/et_maximum"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:cursorVisible="true"
+                    android:inputType="numberDecimal"
+                    android:maxLength="5"
+                    android:maxLines="1"
+                    android:textCursorDrawable="@drawable/featured_cursor_drawable" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="16dp"
+                android:text="Generate" />
+
+            <RadioGroup
+                android:id="@+id/rg_generate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="16dp"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:id="@+id/rb_one"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:checked="true"
+                    android:text="1"
+                    app:buttonTint="@color/tools_color_random" />
+
+                <androidx.appcompat.widget.AppCompatRadioButton
+                    android:id="@+id/rb_ten"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="10"
+                    app:buttonTint="@color/tools_color_random" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/bt_convert"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_margin="16dp"
+                android:text="Generate"
+                android:textAllCaps="false"
+                android:textColor="@color/common_button_color"
+                android:textSize="@dimen/app_body_type_1_text_size"
+                app:backgroundTint="@color/tools_color_random"
+                app:icon="@drawable/ic_calculator_48"
+                app:iconTint="@color/common_button_color" />
+
+            <LinearLayout
+                android:id="@+id/ll_generate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/textStyleBody1Bold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Result" />
+
+                <TextView
+                    android:id="@+id/tv_range_result"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+    <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"መነሻ ዳስስ"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ወደ ላይ ያስሱ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ተጨማሪ አማራጮ�

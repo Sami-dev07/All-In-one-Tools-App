@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_age_calculator.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_age_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_storage_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_storage_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_tap_counter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_tap_counter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_main_bubble.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_main_bubble.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/audio_record_row.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/audio_record_row.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/clothing_women_size.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/clothing_women_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/form_maths_random.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/form_maths_random.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_essential_tools.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_essential_tools.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_shoe_size.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_shoe_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/fragment_unit_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/fragment_unit_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_time_and_date.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_time_and_date.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_set_time.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_set_time.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_hidden_camera.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_hidden_camera.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/view_calendar_day.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/view_calendar_day.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_internet_speed.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_internet_speed.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/view_calendar_month.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/view_calendar_month.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_metal_detector.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_metal_detector.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/calibrationview.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/calibrationview.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_stop_watch.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_stop_watch.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_image_display.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_display.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_area_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_area_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_cloth.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_cloth.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_voice_recorder.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_voice_recorder.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_simple_calculator.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_simple_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_device_details.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_device_details.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_magnifier.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_magnifier.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/row_common_size.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/row_common_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_image_compressor.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_compressor.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/info_dialog.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/info_dialog.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/compress_bottom_sheet.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/compress_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/fragment_clothing_men.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/fragment_clothing_men.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_periodic_table.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_periodic_table.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_protector.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_protector.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_time_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_time_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_math_and_finance.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_math_and_finance.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_bubble_leveler.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_bubble_leveler.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/clothing_men_fragment.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/clothing_men_fragment.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/task_card_layout.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/task_card_layout.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_scan_qrcode.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_scan_qrcode.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_flashlight.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_flashlight.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_saved_recordings.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_saved_recordings.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_image_to_pdf.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_to_pdf.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_count_down_start.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_count_down_start.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/view_custom_calendar.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/view_custom_calendar.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_fuel_cost.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_fuel_cost.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_location.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_location.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_discount_calculator.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_discount_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_qrcode.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_qrcode.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_countdown.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_countdown.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_text_to_speech.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_text_to_speech.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/form_random_password.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/form_random_password.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_units_main.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_units_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_calender_main.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_calender_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/loading_dialog.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/form_random_home.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/form_random_home.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/image_item.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/image_item.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_length_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_length_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_common_tools_activty.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_common_tools_activty.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_get_started.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_image_resizer.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_image_resizer.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_add_task.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_percentage_calculator.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_percentage_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_compass.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_compass.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/fragment_media_playback.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/fragment_media_playback.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/dialog_audio_rename_file.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/dialog_audio_rename_file.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_mass_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_mass_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_clothing_size.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_clothing_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_speed_meter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_speed_meter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/row_shoe_size.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/row_shoe_size.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_unit_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_unit_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_straight_ruler.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_straight_ruler.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_scientific_calculator.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_scientific_calculator.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_piano.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_piano.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_edit_task.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_edit_task.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_voice_recorder_main.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_voice_recorder_main.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_volume_converter.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_volume_converter.xml"
+    },
+    {
+        "merged": "com.alltools.toolbox.utility.calculator.app-mergeDebugResources-55:/layout/activity_main_todo.xml",
+        "source": "com.alltools.toolbox.utility.calculator.app-main-58:/layout/activity_main_todo.xml"
+    }
+]
