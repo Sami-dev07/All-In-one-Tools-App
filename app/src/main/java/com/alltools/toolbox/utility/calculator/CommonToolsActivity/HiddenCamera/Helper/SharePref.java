@@ -27,16 +27,5 @@ public class SharePref {
     public String getSharedTextValue(String name, String dummyValue){
         return sharedPreferences.getString(name, dummyValue);
     }
-    public int getSharedIntValue(String name, int dummyValue){
-        return sharedPreferences.getInt(name, dummyValue);
-    }
 
-    public void setBooleanValue(String name, boolean value){
-        editor = sharedPreferences.edit();
-        editor.putBoolean(name, value);
-        editor.apply();
-    }
-    public boolean getBooleanValue(String name){
-        return sharedPreferences.getBoolean(name, false);
-    }
 }

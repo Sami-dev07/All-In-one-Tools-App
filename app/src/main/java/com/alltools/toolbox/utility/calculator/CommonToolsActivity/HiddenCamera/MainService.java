@@ -81,8 +81,7 @@ public class MainService extends Service implements TextureView.SurfaceTextureLi
 
         DisplayMetrics displayMetrics = new DisplayMetrics();
         windowManager.getDefaultDisplay().getMetrics(displayMetrics);
-        int screenWidth = displayMetrics.widthPixels;
-        int screenHeight = displayMetrics.heightPixels;
+
         WindowManager.LayoutParams layoutParams = new WindowManager.LayoutParams(
                 1,
                 1,

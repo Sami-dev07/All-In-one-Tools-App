@@ -14,7 +14,6 @@ public class PauseActionBroadcast extends BroadcastReceiver {
         String action = intent.getAction();
 
         if ("NO_ACTION".equals(action)) {
-            // Handle "No" button click
             Toast.makeText(context, "You clicked No", Toast.LENGTH_SHORT).show();
             Toast.makeText(context, "Received", Toast.LENGTH_SHORT).show();
             context.unbindService(Utils.connection);

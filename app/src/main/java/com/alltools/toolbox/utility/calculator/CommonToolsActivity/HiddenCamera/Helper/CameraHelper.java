@@ -78,7 +78,7 @@ public class CameraHelper {
 
     public static String getOutputMediaFileName() {
         String timeStamp = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(new Date());
-        return "Spy Cam_" + timeStamp + ".mp4";
+        return "intruder" + timeStamp + ".mp4";
     }
 
 }
