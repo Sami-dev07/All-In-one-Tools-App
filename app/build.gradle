@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.alltools.toolbox.utility.calculator'
-    compileSdk 34
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.alltools.toolbox.utility.calculator"
         minSdk 24
-        targetSdk 34
+        targetSdk 36
         versionCode 1
         versionName "1.0"
         setProperty("archivesBaseName", "All in One Tools verion $versionName")
